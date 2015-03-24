@@ -2,16 +2,12 @@
 Projeto da disciplina de Ruby/Rails.
 
 Site da Empresa Bean Soluções Inteligentes.
-Integrantes: @mocotinha, @gefersonrd
+Integrantes: <a href="https://github.com/mocotinha">Jozias Rolim</a>, <a href="https://github.com/gefersonrd">Geferson Ribeiro</a>
 
-Requisitos:
-- Ambiente de Apresentação Geral da Empresa, contendo as principais informações
-- Parceiros
-- Portifólio
-- Historico
-- Membros (Corpo da Empresa)
-- Contato
-- Serviços da Empresa ()
-- Area de Usuario (Membros da empresa) - Permite gerenciamento de conteúdos e informações das páginas
+Artefatos a serem gerados:
+- Documento de Requisitos
+- Documento de Análise
+- Documento de Projeto
+- Home Page da Bean Soluções Inteligentes.
 
-https://github.com/ifpb/dafrad-2015.1/
+<a href="https://github.com/ifpb/dafrad-2015.1/">Disciplina RAD 2015.1</a> 
